@@ -7,7 +7,6 @@ This project provides a Python server with zero external dependencies that:
 3. Exposes OpenAI-compatible endpoints,
 4. Forwards requests to a Codex model via the `responses` API.
 
-The default model is `gpt-5.3-codex`, configurable via `OPENAI_DEFAULT_MODEL`.
 
 ## Important
 
